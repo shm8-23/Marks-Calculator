@@ -47,7 +47,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Marks Calculator" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mB5-qI-QEv">
-                                <rect key="frame" x="0.0" y="0.0" width="320" height="41"/>
+                                <rect key="frame" x="0.0" y="20" width="320" height="41"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -847,7 +847,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EbO-Nh-bzQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1077" y="-1301"/>
+            <point key="canvasLocation" x="1061" y="-1313"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
@@ -856,11 +856,11 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="TP7-oL-krg"/>
-        <segue reference="fHt-kC-4EP"/>
+        <segue reference="8sZ-pC-9bO"/>
         <segue reference="ZYn-dW-mHq"/>
         <segue reference="zNB-rT-qh0"/>
-        <segue reference="XwZ-gJ-vGU"/>
+        <segue reference="47T-E0-GTy"/>
         <segue reference="eGI-1D-A4q"/>
+        <segue reference="XwZ-gJ-vGU"/>
     </inferredMetricsTieBreakers>
 </document>
