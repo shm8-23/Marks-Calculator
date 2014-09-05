@@ -114,8 +114,8 @@
 			children = (
 				F903797619AB156300CACEF9 /* AppDelegate.h */,
 				F903797719AB156300CACEF9 /* AppDelegate.m */,
-				F903797919AB156300CACEF9 /* Main.storyboard */,
 				F903797C19AB156300CACEF9 /* ViewController.h */,
+				F903797919AB156300CACEF9 /* Main.storyboard */,
 				F903797D19AB156300CACEF9 /* ViewController.m */,
 				F903797F19AB156300CACEF9 /* Images.xcassets */,
 				F903796E19AB156300CACEF9 /* Supporting Files */,
@@ -456,6 +456,7 @@
 				F903799819AB156300CACEF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F903799919AB156300CACEF9 /* Build configuration list for PBXNativeTarget "Marks CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +465,7 @@
 				F903799B19AB156300CACEF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
