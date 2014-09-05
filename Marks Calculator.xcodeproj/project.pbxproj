@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		97F93EFC19B99BA7005E70E0 /* Html-source-code.png in Resources */ = {isa = PBXBuildFile; fileRef = 97F93EFB19B99BA7005E70E0 /* Html-source-code.png */; };
+		97F93EFE19B99BB4005E70E0 /* IOS 7 ico 120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 97F93EFD19B99BB4005E70E0 /* IOS 7 ico 120x120.png */; };
+		97F93F0019B99BBB005E70E0 /* Score Calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = 97F93EFF19B99BBB005E70E0 /* Score Calculator.png */; };
 		F903796819AB156300CACEF9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796719AB156300CACEF9 /* Foundation.framework */; };
 		F903796A19AB156300CACEF9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796919AB156300CACEF9 /* CoreGraphics.framework */; };
 		F903796C19AB156300CACEF9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796B19AB156300CACEF9 /* UIKit.framework */; };
@@ -34,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		97F93EFB19B99BA7005E70E0 /* Html-source-code.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Html-source-code.png"; path = "../../Html-source-code.png"; sourceTree = "<group>"; };
+		97F93EFD19B99BB4005E70E0 /* IOS 7 ico 120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "IOS 7 ico 120x120.png"; path = "../../../Documents/Dev/Score Calculator/IOS 7 ico 120x120.png"; sourceTree = "<group>"; };
+		97F93EFF19B99BBB005E70E0 /* Score Calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Score Calculator.png"; path = "../../../Documents/Dev/Score Calculator/Score Calculator.png"; sourceTree = "<group>"; };
 		F903796419AB156300CACEF9 /* Marks Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Marks Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F903796719AB156300CACEF9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F903796919AB156300CACEF9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -112,6 +118,9 @@
 		F903796D19AB156300CACEF9 /* Marks Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				97F93EFF19B99BBB005E70E0 /* Score Calculator.png */,
+				97F93EFD19B99BB4005E70E0 /* IOS 7 ico 120x120.png */,
+				97F93EFB19B99BA7005E70E0 /* Html-source-code.png */,
 				F903797619AB156300CACEF9 /* AppDelegate.h */,
 				F903797719AB156300CACEF9 /* AppDelegate.m */,
 				F903797C19AB156300CACEF9 /* ViewController.h */,
@@ -229,7 +238,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F903798019AB156300CACEF9 /* Images.xcassets in Resources */,
+				97F93F0019B99BBB005E70E0 /* Score Calculator.png in Resources */,
+				97F93EFE19B99BB4005E70E0 /* IOS 7 ico 120x120.png in Resources */,
 				F903797219AB156300CACEF9 /* InfoPlist.strings in Resources */,
+				97F93EFC19B99BA7005E70E0 /* Html-source-code.png in Resources */,
 				F903797B19AB156300CACEF9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
