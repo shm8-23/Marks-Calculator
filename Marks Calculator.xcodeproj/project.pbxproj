@@ -7,18 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		97F93EFC19B99BA7005E70E0 /* Html-source-code.png in Resources */ = {isa = PBXBuildFile; fileRef = 97F93EFB19B99BA7005E70E0 /* Html-source-code.png */; };
-		97F93EFE19B99BB4005E70E0 /* IOS 7 ico 120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = 97F93EFD19B99BB4005E70E0 /* IOS 7 ico 120x120.png */; };
-		97F93F0019B99BBB005E70E0 /* Score Calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = 97F93EFF19B99BBB005E70E0 /* Score Calculator.png */; };
+		B5C190D519B99ECB0018B82F /* ADMTEoyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190B719B99ECB0018B82F /* ADMTEoyViewController.m */; };
+		B5C190D619B99ECB0018B82F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190B919B99ECB0018B82F /* AppDelegate.m */; };
+		B5C190D719B99ECB0018B82F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5C190BA19B99ECB0018B82F /* Main.storyboard */; };
+		B5C190D819B99ECB0018B82F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B5C190BC19B99ECB0018B82F /* InfoPlist.strings */; };
+		B5C190D919B99ECB0018B82F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C190BE19B99ECB0018B82F /* Images.xcassets */; };
+		B5C190DA19B99ECB0018B82F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190BF19B99ECB0018B82F /* main.m */; };
+		B5C190DB19B99ECB0018B82F /* Marks Calculator-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B5C190C019B99ECB0018B82F /* Marks Calculator-Info.plist */; };
+		B5C190DC19B99ECB0018B82F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190C319B99ECB0018B82F /* ViewController.m */; };
+		B5C190DD19B99ECB0018B82F /* ViewControllerAA.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190C519B99ECB0018B82F /* ViewControllerAA.m */; };
+		B5C190DE19B99ECB0018B82F /* ViewControllerADMTCm.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190C719B99ECB0018B82F /* ViewControllerADMTCm.m */; };
+		B5C190DF19B99ECB0018B82F /* ViewControllerADMTCm.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5C190C819B99ECB0018B82F /* ViewControllerADMTCm.xib */; };
+		B5C190E019B99ECB0018B82F /* ViewControllerADMTExamPick.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190CA19B99ECB0018B82F /* ViewControllerADMTExamPick.m */; };
+		B5C190E119B99ECB0018B82F /* ViewControllerEOY.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190CC19B99ECB0018B82F /* ViewControllerEOY.m */; };
+		B5C190E219B99ECB0018B82F /* ViewControllerExamPick.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190CE19B99ECB0018B82F /* ViewControllerExamPick.m */; };
+		B5C190E319B99ECB0018B82F /* ViewControllerLevelTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190D019B99ECB0018B82F /* ViewControllerLevelTest.m */; };
+		B5C190E419B99ECB0018B82F /* ViewControllerLTCT.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190D219B99ECB0018B82F /* ViewControllerLTCT.m */; };
+		B5C190E519B99ECB0018B82F /* ViewControllerSubjectPick.m in Sources */ = {isa = PBXBuildFile; fileRef = B5C190D419B99ECB0018B82F /* ViewControllerSubjectPick.m */; };
 		F903796819AB156300CACEF9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796719AB156300CACEF9 /* Foundation.framework */; };
 		F903796A19AB156300CACEF9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796919AB156300CACEF9 /* CoreGraphics.framework */; };
 		F903796C19AB156300CACEF9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796B19AB156300CACEF9 /* UIKit.framework */; };
-		F903797219AB156300CACEF9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F903797019AB156300CACEF9 /* InfoPlist.strings */; };
-		F903797419AB156300CACEF9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F903797319AB156300CACEF9 /* main.m */; };
-		F903797819AB156300CACEF9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F903797719AB156300CACEF9 /* AppDelegate.m */; };
-		F903797B19AB156300CACEF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F903797919AB156300CACEF9 /* Main.storyboard */; };
-		F903797E19AB156300CACEF9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F903797D19AB156300CACEF9 /* ViewController.m */; };
-		F903798019AB156300CACEF9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F903797F19AB156300CACEF9 /* Images.xcassets */; };
 		F903798719AB156300CACEF9 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903798619AB156300CACEF9 /* XCTest.framework */; };
 		F903798819AB156300CACEF9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796719AB156300CACEF9 /* Foundation.framework */; };
 		F903798919AB156300CACEF9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F903796B19AB156300CACEF9 /* UIKit.framework */; };
@@ -37,23 +45,39 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		97F93EFB19B99BA7005E70E0 /* Html-source-code.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Html-source-code.png"; path = "../../Html-source-code.png"; sourceTree = "<group>"; };
-		97F93EFD19B99BB4005E70E0 /* IOS 7 ico 120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "IOS 7 ico 120x120.png"; path = "../../../Documents/Dev/Score Calculator/IOS 7 ico 120x120.png"; sourceTree = "<group>"; };
-		97F93EFF19B99BBB005E70E0 /* Score Calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Score Calculator.png"; path = "../../../Documents/Dev/Score Calculator/Score Calculator.png"; sourceTree = "<group>"; };
+		B5C190B619B99ECB0018B82F /* ADMTEoyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADMTEoyViewController.h; sourceTree = "<group>"; };
+		B5C190B719B99ECB0018B82F /* ADMTEoyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADMTEoyViewController.m; sourceTree = "<group>"; };
+		B5C190B819B99ECB0018B82F /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B5C190B919B99ECB0018B82F /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B5C190BB19B99ECB0018B82F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B5C190BD19B99ECB0018B82F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B5C190BE19B99ECB0018B82F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B5C190BF19B99ECB0018B82F /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B5C190C019B99ECB0018B82F /* Marks Calculator-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Marks Calculator-Info.plist"; sourceTree = "<group>"; };
+		B5C190C119B99ECB0018B82F /* Marks Calculator-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Marks Calculator-Prefix.pch"; sourceTree = "<group>"; };
+		B5C190C219B99ECB0018B82F /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		B5C190C319B99ECB0018B82F /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B5C190C419B99ECB0018B82F /* ViewControllerAA.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerAA.h; sourceTree = "<group>"; };
+		B5C190C519B99ECB0018B82F /* ViewControllerAA.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerAA.m; sourceTree = "<group>"; };
+		B5C190C619B99ECB0018B82F /* ViewControllerADMTCm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerADMTCm.h; sourceTree = "<group>"; };
+		B5C190C719B99ECB0018B82F /* ViewControllerADMTCm.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerADMTCm.m; sourceTree = "<group>"; };
+		B5C190C819B99ECB0018B82F /* ViewControllerADMTCm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewControllerADMTCm.xib; sourceTree = "<group>"; };
+		B5C190C919B99ECB0018B82F /* ViewControllerADMTExamPick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerADMTExamPick.h; sourceTree = "<group>"; };
+		B5C190CA19B99ECB0018B82F /* ViewControllerADMTExamPick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerADMTExamPick.m; sourceTree = "<group>"; };
+		B5C190CB19B99ECB0018B82F /* ViewControllerEOY.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerEOY.h; sourceTree = "<group>"; };
+		B5C190CC19B99ECB0018B82F /* ViewControllerEOY.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerEOY.m; sourceTree = "<group>"; };
+		B5C190CD19B99ECB0018B82F /* ViewControllerExamPick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerExamPick.h; sourceTree = "<group>"; };
+		B5C190CE19B99ECB0018B82F /* ViewControllerExamPick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerExamPick.m; sourceTree = "<group>"; };
+		B5C190CF19B99ECB0018B82F /* ViewControllerLevelTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerLevelTest.h; sourceTree = "<group>"; };
+		B5C190D019B99ECB0018B82F /* ViewControllerLevelTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerLevelTest.m; sourceTree = "<group>"; };
+		B5C190D119B99ECB0018B82F /* ViewControllerLTCT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerLTCT.h; sourceTree = "<group>"; };
+		B5C190D219B99ECB0018B82F /* ViewControllerLTCT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerLTCT.m; sourceTree = "<group>"; };
+		B5C190D319B99ECB0018B82F /* ViewControllerSubjectPick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerSubjectPick.h; sourceTree = "<group>"; };
+		B5C190D419B99ECB0018B82F /* ViewControllerSubjectPick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerSubjectPick.m; sourceTree = "<group>"; };
 		F903796419AB156300CACEF9 /* Marks Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Marks Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F903796719AB156300CACEF9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F903796919AB156300CACEF9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		F903796B19AB156300CACEF9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		F903796F19AB156300CACEF9 /* Marks Calculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Marks Calculator-Info.plist"; sourceTree = "<group>"; };
-		F903797119AB156300CACEF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		F903797319AB156300CACEF9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F903797519AB156300CACEF9 /* Marks Calculator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Marks Calculator-Prefix.pch"; sourceTree = "<group>"; };
-		F903797619AB156300CACEF9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		F903797719AB156300CACEF9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		F903797A19AB156300CACEF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F903797C19AB156300CACEF9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		F903797D19AB156300CACEF9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		F903797F19AB156300CACEF9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		F903798519AB156300CACEF9 /* Marks CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Marks CalculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F903798619AB156300CACEF9 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		F903798E19AB156300CACEF9 /* Marks CalculatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Marks CalculatorTests-Info.plist"; sourceTree = "<group>"; };
@@ -85,10 +109,47 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B5C190B519B99ECB0018B82F /* Marks Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				B5C190B819B99ECB0018B82F /* AppDelegate.h */,
+				B5C190B919B99ECB0018B82F /* AppDelegate.m */,
+				B5C190BA19B99ECB0018B82F /* Main.storyboard */,
+				B5C190BC19B99ECB0018B82F /* InfoPlist.strings */,
+				B5C190BE19B99ECB0018B82F /* Images.xcassets */,
+				B5C190BF19B99ECB0018B82F /* main.m */,
+				B5C190C019B99ECB0018B82F /* Marks Calculator-Info.plist */,
+				B5C190C119B99ECB0018B82F /* Marks Calculator-Prefix.pch */,
+				B5C190C219B99ECB0018B82F /* ViewController.h */,
+				B5C190C319B99ECB0018B82F /* ViewController.m */,
+				B5C190C419B99ECB0018B82F /* ViewControllerAA.h */,
+				B5C190C519B99ECB0018B82F /* ViewControllerAA.m */,
+				B5C190C619B99ECB0018B82F /* ViewControllerADMTCm.h */,
+				B5C190C719B99ECB0018B82F /* ViewControllerADMTCm.m */,
+				B5C190B619B99ECB0018B82F /* ADMTEoyViewController.h */,
+				B5C190B719B99ECB0018B82F /* ADMTEoyViewController.m */,
+				B5C190C919B99ECB0018B82F /* ViewControllerADMTExamPick.h */,
+				B5C190CA19B99ECB0018B82F /* ViewControllerADMTExamPick.m */,
+				B5C190CB19B99ECB0018B82F /* ViewControllerEOY.h */,
+				B5C190CC19B99ECB0018B82F /* ViewControllerEOY.m */,
+				B5C190CD19B99ECB0018B82F /* ViewControllerExamPick.h */,
+				B5C190CE19B99ECB0018B82F /* ViewControllerExamPick.m */,
+				B5C190CF19B99ECB0018B82F /* ViewControllerLevelTest.h */,
+				B5C190D019B99ECB0018B82F /* ViewControllerLevelTest.m */,
+				B5C190D119B99ECB0018B82F /* ViewControllerLTCT.h */,
+				B5C190D219B99ECB0018B82F /* ViewControllerLTCT.m */,
+				B5C190D319B99ECB0018B82F /* ViewControllerSubjectPick.h */,
+				B5C190D419B99ECB0018B82F /* ViewControllerSubjectPick.m */,
+				B5C190C819B99ECB0018B82F /* ViewControllerADMTCm.xib */,
+			);
+			name = "Marks Calculator";
+			path = "../Marks-Calculator/Marks Calculator";
+			sourceTree = "<group>";
+		};
 		F903795B19AB156300CACEF9 = {
 			isa = PBXGroup;
 			children = (
-				F903796D19AB156300CACEF9 /* Marks Calculator */,
+				B5C190B519B99ECB0018B82F /* Marks Calculator */,
 				F903798C19AB156300CACEF9 /* Marks CalculatorTests */,
 				F903796619AB156300CACEF9 /* Frameworks */,
 				F903796519AB156300CACEF9 /* Products */,
@@ -113,34 +174,6 @@
 				F903798619AB156300CACEF9 /* XCTest.framework */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		F903796D19AB156300CACEF9 /* Marks Calculator */ = {
-			isa = PBXGroup;
-			children = (
-				97F93EFF19B99BBB005E70E0 /* Score Calculator.png */,
-				97F93EFD19B99BB4005E70E0 /* IOS 7 ico 120x120.png */,
-				97F93EFB19B99BA7005E70E0 /* Html-source-code.png */,
-				F903797619AB156300CACEF9 /* AppDelegate.h */,
-				F903797719AB156300CACEF9 /* AppDelegate.m */,
-				F903797C19AB156300CACEF9 /* ViewController.h */,
-				F903797919AB156300CACEF9 /* Main.storyboard */,
-				F903797D19AB156300CACEF9 /* ViewController.m */,
-				F903797F19AB156300CACEF9 /* Images.xcassets */,
-				F903796E19AB156300CACEF9 /* Supporting Files */,
-			);
-			path = "Marks Calculator";
-			sourceTree = "<group>";
-		};
-		F903796E19AB156300CACEF9 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				F903796F19AB156300CACEF9 /* Marks Calculator-Info.plist */,
-				F903797019AB156300CACEF9 /* InfoPlist.strings */,
-				F903797319AB156300CACEF9 /* main.m */,
-				F903797519AB156300CACEF9 /* Marks Calculator-Prefix.pch */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		F903798C19AB156300CACEF9 /* Marks CalculatorTests */ = {
@@ -237,12 +270,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F903798019AB156300CACEF9 /* Images.xcassets in Resources */,
-				97F93F0019B99BBB005E70E0 /* Score Calculator.png in Resources */,
-				97F93EFE19B99BB4005E70E0 /* IOS 7 ico 120x120.png in Resources */,
-				F903797219AB156300CACEF9 /* InfoPlist.strings in Resources */,
-				97F93EFC19B99BA7005E70E0 /* Html-source-code.png in Resources */,
-				F903797B19AB156300CACEF9 /* Main.storyboard in Resources */,
+				B5C190D919B99ECB0018B82F /* Images.xcassets in Resources */,
+				B5C190D719B99ECB0018B82F /* Main.storyboard in Resources */,
+				B5C190DB19B99ECB0018B82F /* Marks Calculator-Info.plist in Resources */,
+				B5C190D819B99ECB0018B82F /* InfoPlist.strings in Resources */,
+				B5C190DF19B99ECB0018B82F /* ViewControllerADMTCm.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,9 +293,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F903797E19AB156300CACEF9 /* ViewController.m in Sources */,
-				F903797819AB156300CACEF9 /* AppDelegate.m in Sources */,
-				F903797419AB156300CACEF9 /* main.m in Sources */,
+				B5C190E219B99ECB0018B82F /* ViewControllerExamPick.m in Sources */,
+				B5C190E119B99ECB0018B82F /* ViewControllerEOY.m in Sources */,
+				B5C190E019B99ECB0018B82F /* ViewControllerADMTExamPick.m in Sources */,
+				B5C190E519B99ECB0018B82F /* ViewControllerSubjectPick.m in Sources */,
+				B5C190DC19B99ECB0018B82F /* ViewController.m in Sources */,
+				B5C190E319B99ECB0018B82F /* ViewControllerLevelTest.m in Sources */,
+				B5C190E419B99ECB0018B82F /* ViewControllerLTCT.m in Sources */,
+				B5C190D519B99ECB0018B82F /* ADMTEoyViewController.m in Sources */,
+				B5C190DA19B99ECB0018B82F /* main.m in Sources */,
+				B5C190DD19B99ECB0018B82F /* ViewControllerAA.m in Sources */,
+				B5C190D619B99ECB0018B82F /* AppDelegate.m in Sources */,
+				B5C190DE19B99ECB0018B82F /* ViewControllerADMTCm.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,20 +327,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F903797019AB156300CACEF9 /* InfoPlist.strings */ = {
+		B5C190BA19B99ECB0018B82F /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F903797119AB156300CACEF9 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		F903797919AB156300CACEF9 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F903797A19AB156300CACEF9 /* Base */,
+				B5C190BB19B99ECB0018B82F /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B5C190BC19B99ECB0018B82F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B5C190BD19B99ECB0018B82F /* en */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 		F903798F19AB156300CACEF9 /* InfoPlist.strings */ = {
